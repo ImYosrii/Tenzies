@@ -9,4 +9,4 @@ https://user-images.githubusercontent.com/66914036/179805916-f19e3dce-4552-4e1f-
 5 - type `npm start`<br>
 
 ## NOTE: You need Node and npm installed
-to install: https://nodejs.org/en/download/
+to install Node and npm: https://nodejs.org/en/download/
