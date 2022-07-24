@@ -1,5 +1,5 @@
 # Tenzies
-#### A game where you math dice by hold and rerolling until they all match
+#### A game where you match dice by hold and rerolling until they all match
 https://user-images.githubusercontent.com/66914036/179805916-f19e3dce-4552-4e1f-9934-b4accb4f9559.mp4
 #### How to run?
 1 - Download the file<br>
